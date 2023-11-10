@@ -1,2 +1,2 @@
-# ibmda
+# IBM DA Course
 # Capstone project
